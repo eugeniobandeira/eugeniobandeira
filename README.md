@@ -4,8 +4,8 @@
 <h4>I am a Software Developer 🖥️, I live in São Paulo - Brazil. Currently, I am focusing on studying C#, Angular, and PL/SQL. </h4>
 
 ## Education 📚
-<h3>🧑‍💻 Software Analysis and Development @FIAP - 3º of 4 semesters </h3>
-<h3>🧬 Data Science @USP - 1º of 3 semesters</h3>
+<h3>🧑‍💻 Currently pursuing a degree in Software Analysis and Development at FIAP (3rd of 4 semesters).</h3>
+<h3>🧬 Also enrolled in a Data Science MBA program at USP (1st of 3 semesters)</h3>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_eugsb00/) 
