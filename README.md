@@ -43,7 +43,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=madugoda&icon=2&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=eugeniobandeira&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 
   
