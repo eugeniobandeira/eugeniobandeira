@@ -1,22 +1,49 @@
-## Olá, bem vindo ao meu perfil de desenvolvedor 👋
+<h1 align="center">Hi 👋, I'm Eugênio Bandeira</h1>
+<h3 align="center">🖥️ Software Developer from Brazil</h3>
+<h3 align="center">Software Analysis and Development @FIAP🧑‍💻</h3>
+<h3 align="center">Data Science @USP 🧬</h3>
+<h3> 📌 I'm currently studying C#, Angular, PL/SQL </h3>
 
-### Meus principais projetos
-- Portfolio: https://eugeniobandeira.github.io/portfolio/
-- Jogo de Adivinhação: https://eugeniobandeira.github.io/Adivinhe-o-Numero/
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_eugsb00/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugeniosb/) 
 
-### Linguagens que utilizo no dia a dia
+# 💻 Tech Stacks
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Um pouco sobre mim
+# IDEs
 
- 💬 Nasci no ano 2000, moro em São Paulo, sou formado em Comércio Exterior e agora estou cursando ADS na FIAP e Data Science na Escola Politécnica da USP. Também estou fazendo as trilhas do Explorer e do Ignite da Rocketseat, acredito que isso vai elevar muito o meu nível como desenvolvedor de sistemas.
- <br>📫 eugeniosb00@proton.me
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
-Agradeço novamente pela sua visita. Sinta-se à vontade para explorar meus projetos e não hesite em entrar em contato caso tenha alguma pergunta ou sugestão. Estou ansioso para colaborar e aprender junto com você! 🚀🚀🚀
+# 📊 GitHub Stats
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eugeniobandeira&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eugeniobandeira&theme=dark&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniobandeira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=madugoda&icon=2&color=11)](https://visitcount.itsvg.in)
+
+
+  
+
 
