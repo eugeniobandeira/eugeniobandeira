@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eugênio Bandeira</h1>
-<!-- <h3 align="center">🖥️ Software Developer from São Paulo - Brazil</h3>
-<h3 align="center"> 📌 I'm currently studying C#, Angular, PL/SQL </h3> -->
-<h4>I am a Software Developer 🖥️, I live in São Paulo - Brazil. Currently, I am focusing on studying C#, Angular, and PL/SQL. </h4>
+<h4>I am a Software Developer, I live in São Paulo - Brazil. Currently, I am focusing on studying C#, Angular, and PL/SQL. </h4>
 
 ## Education 📚
 <h3>🧑‍💻 Currently pursuing a degree in Software Analysis and Development at FIAP (3rd of 4 semesters).</h3>
