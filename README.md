@@ -58,7 +58,6 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eugeniobandeira&theme=dark&hide_border=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniobandeira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=eugeniobandeira&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
