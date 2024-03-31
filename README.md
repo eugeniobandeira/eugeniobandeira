@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Eugênio Bandeira</h1>
 <h3>I am a Software Developer, I live in São Paulo - Brazil. At the moment, I am focusing on studying C#, Angular, and PL/SQL. </h3> 
 
@@ -7,7 +6,7 @@
 <h3>🧬 Also enrolled in a Data Science MBA program at USP (1st of 3 semesters)</h3>
 
 ## 🌐 Socials  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_eugsb00/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/estudotech/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugeniosb/) 
 
 # 💻 Tech Stacks
