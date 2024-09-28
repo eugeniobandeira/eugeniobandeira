@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Eugênio Bandeira</h1>
-<h3>I am a Software Developer, I live in São Paulo - Brazil. At the moment, I am focusing on studying C#, Angular, and PL/SQL. </h3> 
+<h1 align="center">Olá 👋, Eu sou Eugênio Bandeira</h1>
+<h3>Sou um Desenvolvedor de Software, moro em São Paulo - Brasil. No momento, estou focado em estudar C#, Angular e PL/SQL.</h3> 
 
-## Education 📚
-<h3>🧑‍💻 Currently pursuing a degree in Software Analysis and Development at FIAP (3rd of 4 semesters).</h3>
-<h3>🧬 Also enrolled in a Data Science MBA program at USP (1st of 3 semesters)</h3>
+## Formação  📚
+<h3>🧑‍💻 Atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP, no último semestre</h3>
 
-## 🌐 Socials  
+## 🌐 Redes Sociais  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/estudotech/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugeniosb/) 
 
