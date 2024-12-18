@@ -1,12 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Eugênio Bandeira</h1>
-<h3>Sou um Desenvolvedor de Software, moro em São Paulo - Brasil. No momento, estou focado em estudar C#, Angular e PL/SQL.</h3> 
+<h3>Sou um Desenvolvedor de Software, moro em São Paulo - Brasil. No momento, estou focado em estudar C#, Angular, PL/SQL e DevOps.</h3> 
 
 ## Formação  📚
-<h3>🧑‍💻 Atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP, no último semestre</h3>
+<h3>🧑‍💻 Sou formado Análise e Desenvolvimento de Sistemas pela FIAP</h3>
 
 ## 🌐 Redes Sociais  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/estudotech/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugeniosb/) 
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 # 💻 Tech Stacks
 ## Frontend
@@ -23,7 +22,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ## Database
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -32,10 +30,6 @@
 ## DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## Utilities
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -59,6 +53,14 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=eugeniobandeira&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-074F97?&style=for-the-badge&logo=LinkedIn&logoColor=white
+
+[linkedin-url]: https://www.linkedin.com/in/eugeniosb/
+
+
+
 
 
   
