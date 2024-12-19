@@ -2,7 +2,7 @@
 <h3>Sou um Desenvolvedor de Software, moro em São Paulo - Brasil. No momento, estou focado em estudar C#, Angular, PL/SQL e DevOps.</h3> 
 
 ## Formação  📚
-<h3>🧑‍💻 Sou formado Análise e Desenvolvimento de Sistemas pela FIAP</h3>
+<h3>🧑‍💻 Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP</h3>
 
 ## 🌐 Redes Sociais  
 [![LinkedIn][linkedin-shield]][linkedin-url]
