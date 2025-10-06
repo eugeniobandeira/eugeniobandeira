@@ -1,8 +1,6 @@
- # Hey there! 🤙
+ # Hey there! 
  
  I'm a FullStack Developer that love learning new things. Always looking for knowledge and improving my skills.      
- 
-Angular & .NET lover ❤. 
 
 [![My Skills](https://skillicons.dev/icons?i=angular,tailwindcss,dotnet,docker,mysql,ts,vscode,git,azure,aws)](https://skillicons.dev)
 
