@@ -1,14 +1,29 @@
- # Hey there! 
- 
- I'm a FullStack Developer that love learning new things. Always looking for knowledge and improving my skills.      
+# Eugênio Bandeira
 
-[![My Skills](https://skillicons.dev/icons?i=angular,tailwindcss,dotnet,docker,mysql,ts,vscode,git,azure,aws)](https://skillicons.dev)
+**FullStack Developer** · Building scalable web apps end-to-end
 
-<hr>
+Focused on delivering clean, production-ready software across the full stack —  
+from Angular frontends to .NET APIs, containerized with Docker and deployed on Azure and AWS.
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniobandeira&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeniobandeira&show_icons=true&theme=radical)
+## Tech Stack
 
+**Frontend**
 
+[![Frontend](https://skillicons.dev/icons?i=angular,tailwindcss,ts)](https://skillicons.dev)
+
+**Backend & Infrastructure**
+
+[![Backend](https://skillicons.dev/icons?i=dotnet,docker,kubernetes,mysql)](https://skillicons.dev)
+
+**Cloud & Tools**
+
+[![Cloud](https://skillicons.dev/icons?i=azure,aws,git,vscode)](https://skillicons.dev)
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugeniosb/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugeniobandeira00@gmail.com)
